@@ -1,1 +1,1 @@
-🚀 Movie Recommendation System | Content Based Tecnique | Python | CrossVector Score
+🚀 Movie Recommendation System | Content Based Tecnique | Python | CountVectorizer
